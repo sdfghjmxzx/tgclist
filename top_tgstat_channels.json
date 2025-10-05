@@ -3,22 +3,25 @@
     "name": "Blum: All Crypto – One App",
     "username": "@blumcrypto",
     "link": "https://t.me/blumcrypto",
-    "iconUrl": "https://static9.tgstat.ru/channels/_100/00/003fde626085d4e14db2531cf4d4fedc.jpg",
-    "subscribers": "23,527,480, subs"
+    "iconUrl": "N/A",
+    "subscribers": "23,525,810, subs",
+    "rssUrl": "https://rss.app/feed/RTj6VpGvXPIZ8nEP"
   },
   {
     "name": "Major Community",
     "username": "@majors",
     "link": "https://t.me/majors",
-    "iconUrl": "https://static4.tgstat.ru/channels/_100/eb/ebc968d8432a94019cc80049f7166636.jpg",
-    "subscribers": "18,382,282, subs"
+    "iconUrl": "N/A",
+    "subscribers": "18,381,313, subs",
+    "rssUrl": "https://rss.app/feed/oFYH3DCYSWq29B1U"
   },
   {
     "name": "Telegram Tips",
     "username": "@TelegramTips",
     "link": "https://t.me/TelegramTips",
-    "iconUrl": "https://static7.tgstat.ru/channels/_100/2a/2a9566470d0a119c8fd5db457f7f4630.jpg",
-    "subscribers": "13,215,876, subs"
+    "iconUrl": "N/A",
+    "subscribers": "13,216,100, subs",
+    "rssUrl": "https://rss.app/feed/5kyqqD2sbtPf66xO"
   },
   {
     "name": "SEED Updates",
@@ -664,4 +667,5 @@
     "iconUrl": "https://static3.tgstat.ru/channels/_100/d2/d2dd047e4effeda4a18f267e0e690de9.jpg",
     "subscribers": "3,163,007, subs"
   }
+
 ]
